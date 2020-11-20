@@ -1,0 +1,105 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Teknoloji",
+            "blogTitle" : "Elektrikli Otomobiller Daha Hızlı Şarj Olabilecek",
+            "slug": "elektrikli-otomobiller-daha-hızlı-sarj-olabilecek",
+            "postedOn": "13 Nisan 2020",
+            "author": "Halil Durmuş",
+            "blogImage": "elektrikli-otomobiller-daha-hızlı-sarj-olabilecek.jpg",
+            "blogText": "Porsche ve BMW gibi otomobil firmalarının oluşturduğu FastCharge adlı araştırma grubunun geliştirdiği elektrikli araç şarj istasyonları, elektrikli araç bataryalarını güncel rakiplerinden üç kat daha hızlı şarj ediyor. 450 kW gücündeki şarj istasyonu üç dakikada 100 km menzil sağlayabiliyor. İstasyonun BMW i3’ün bataryasını %10’dan %80 doluluk düzeyine çıkarması sadece 15 dakika alıyor. Öte yandan sistemin çalışabilmesi için elektrikli araçların da yüksek hızda enerji çekme kapasitesinin olması gerekiyor. Örneğin, şu anda satışta olan elektrikli araçlardan Jaguar I-Pace ancak 100 kW enerji çekebiliyor. Üstelik bu tür istasyonların çalışabilmesi için buna uygun elektrik altyapısının da bulunması gerekiyor. Ülkemizde henüz elektrik şarj istasyonlarının yaygınlaşmamış olması bir avantaj olarak değerlendirilebilir. İlk adımda hızlı şarj edebilen istasyonların kurulması. Buna uygun elektrikli araçların yaygınlaşması durumunda elektrikli araçlarla ilgili en önemli problemlerden biri olan menzil sorunu da çözülmüş olur. Elektrikli araç üreten otomobil firmalarının şarj süresini kısaltmanın ötesinde otonom sürüşün sağlanması ve sürüş güvenliğinin artırılması gibi hedefleri de var. Geçtiğimiz günlerde Tesla marka bir araç, yarı otonom sürüş esnasında yolun kenarında duran bir itfaiye aracına çarptı. Bu kazanın ardından tümüyle otonom sürüşün mevcut sensörlerle mümkün olup olmayacağı tekrar tartışılmaya başlandı. Mevcut sistemlerde araçtaki kameradan ve radardan gelen bilgiler bir yazılım aracılığıyla anında işlenerek yol hakkında bilgi çıkarılıyor."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Bilimsel-Teknoloji",
+            "blogTitle": "Beyin Bilgisayar Arayüzü Ne Anlam Taşıyor?",
+            "slug": "beyin-bilgisayar-arayüzü-ne-anlam-tasıyor",
+            "postedOn": "7 Temmuz, 2020",
+            "author": "Halil Durmuş",
+            "blogImage": "beyin-bilgisayar-arayüzü-ne-anlam-tasıyor.jpg",
+            "blogText": "Beyin bilgisayar arayüzleri, beyin sinyallerini toplayıp analiz eden ve bu analiz sonucunda istenen eylemlerin gerçekleştirilmesi amacıyla bu sinyalleri çıkış cihazlarına aktarmak üzere komutlara dönüştüren bilgisayar tabanlı sistemlerdir. Örneğin bu tür bir arayüz ile kullanıcı elini sağa veya sola doğru hareket ettirdiğini hayal ederek bilgisayar ekranındaki bir topu sağa veya sola hareket ettirebilir. Dikkat edilirse bu tanım BBA’ları merkezi sinir sistemi tarafından üretilen sinyalleri ölçen ve bu sinyalleri kullanan sistemlerle sınırlıyor. Örneğin sesle, hareketle ya da kaslarla aktive edilen bir iletişim sistemi bu tanımlamaya girmiyor. Diğer yandan, beyindeki elektriksel aktiviteyi ölçen elektroensefalogram (EEG) cihazı da tek başına bir arayüz sayılmıyor. Çünkü bu cihaz sadece beyin sinyallerini kaydediyor ve tek başına kullanıldığında kullanıcının çevresinde herhangi bir çıktı üretmiyor. Özetle, BBA’lar temel olarak kullanıcıların beyin sinyallerini kullanarak onlarla birlikte çalışırlar. BBA teriminin 1970’lerde ortaya çıkmasından itibaren bu konudaki araştırmalar her geçen gün arttı ve dünya çapında pek çok laboratuvarda BBA’lar ana çalışma konusu oldu. Dolayısıyla pek çok yeni kavram, metot ve uygulama alanı ortaya çıktı. Günümüzde de yeni gelişmeler yaşanmaya devam ediyor."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Genel Kültür",
+            "blogTitle": "Niagara Şelaleleri",
+            "slug": "Niagara-selaleleri",
+            "postedOn": "9 Haziran, 2020",
+            "author": "Ahmet Yılmaz",
+            "blogImage": "Niagara-selaleleri.jpg",
+            "blogText": "Amerika Birleşik Devletleri ile Kanada’nın doğal sınırını çizen Erie ve Ontario göllerini bağlayan Niaga nehri üzerindeki Niagara çavlanı belki de dünyanın en çok turist çeken, en görülmeye değer yerlerinden biridir. Amerika yerlilerinin dilinde Niagara “Suların Şimşeği” anlamına gelir. Gerçekten de kırk yedi metre yükseklikten dökülen on beş bin metre küp su, insanı sağır edecek kadar şiddetli bir gürültü yapar! Bu yükseklikten dökülen suyun kayaları aşındıracak kadar kuvvetli olması pek tabiidir ve bu yüzden çavlan yavaş yavaş Erie gölüne doğru çekilerek günden güne gerilemektedir. Yirmi ya da otuz bin yıl önce, Niagara nehrinin suları doğrudan doğruya Ontario gölünden on iki kilometre kadar uzaklaşmıştır! Niagara’yı gezmeye gelen turistler, gemilerle ta çavlanın döküldüğü yere kadar gidebilirler. Hatta, kayanın içinde oyulmuş yeraltı tünelleriyle, bu su duvarının altından bile geçmek mümkündür."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Uzay",
+            "blogTitle": "Karadelik veya Nötron Yıldızının Doğumu",
+            "slug": "karadelik-veya-notron-yıldızının-dogumu",
+            "postedOn": "24 Mayıs 2020",
+            "author": "Halil Durmuş",
+            "blogImage": "karadelik-veya-notron-yıldızının-dogumu.jpg",
+            "blogText": "Kara delik, astrofizikte, çekim alanı her türlü maddesel oluşumun ve ışınımın kendisinden kaçmasına izin vermeyecek derecede güçlü olan, kütlesi büyük bir kozmik cisimdir. Kara delik, uzayda belirli nicelikteki maddenin bir noktaya toplanması ile meydana gelen bir nesnedir de denilebilir. Bu tür nesneler ışık yaymadıklarından kara olarak nitelenirler. Kara deliklerin, 'tekillikleri' dolayısıyla, üç boyutlu olmadıkları, sıfır hacimli oldukları kabul edilir. Karadeliklerin içinde zamanın ise yavaş aktığı veya akmadığı tahmin edilmektedir. Kara delikler Einstein'ın genel görelilik kuramıyla tanımlanmışlardır. Doğrudan gözlemlenememekle birlikte, çeşitli dalga boylarını kullanan dolaylı gözlem teknikleri sayesinde keşfedilmişlerdir. Bu teknikler aynı zamanda çevrelerinde sürüklenen oluşumların da incelenme olanağını sağlamıştır. Örneğin, bir kara deliğin potansiyel kuyusunun çok derin olması nedeniyle yakın çevresinde oluşacak yığılma diskinin üzerine düşen maddeler diskin çok yüksek sıcaklıklara erişmesine neden olacak, bu da diskin (ve dolaylı olarak kara deliğin) yayılan x-ışınları sayesinde saptanmasını sağlayacaktır. Günümüzde, kara deliklerin varlığı, ilgili bilimsel topluluğun (astrofizikçiler ve kuramsal fizikçilerden oluşan) hemen hemen tüm bireyleri tarafından onaylanarak kesinlik kazanmış durumdadır."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Bilimsel",
+            "blogTitle": "Ömürleri Boyunca Parlayan Bitkiler",
+            "slug": "ömürleri-boyunca-parlayan-bitkiler",
+            "postedOn": "3 Ağustos, 2020",
+            "author": "Halil Durmuş",
+            "blogImage": "omurleri-boyunca-parlayan-bitkiler.jpg",
+            "blogText": "İnsan hemen, geceleri ışıl ışıl parlayan, Avatar tarzı büyüleyici bir gece bahçesi hayal ediyor. Hatta (gelecekte) elektrikli ışıklara olan bağımlılığın azaldığını düşünüyor. Fakat parlayan bitkiler, bitkilerin kendisini; yani metabolizmalarının nasıl çalıştığını ve etraflarındaki dünyaya nasıl cevap verdiklerini anlamamıza da yardımcı olabilir. Araştırma takımı, iki tütün bitkisi türü üzerinde çalışmış. Daha önce genetik mühendislik uygulanan ve ışıldayan bakteri ya da ateş böceği DNA’sının kullanıldığı ışıyan bitkilerden farklı olarak; bu bitkilerde, ışık saçan mantarların DNA’sı kullanılarak mühendislik yapılmış. Araştırmacılar bitkinin, genetiği değiştirilmiş diğer ışıyan bitkilere göre de yaklaşık 10 kat daha parlak olduğunu söylüyor. Araştırmacılara göre bu uzun vadeli ve kendi kendini devam ettirebilen ışıma, bitkilerin dış çevrelerine nasıl tepki verdiğini de gösterebilir. Örneğin bitkiler bir muz kabuğunun yakınına konulduğunda, yayılan etilene tepki olarak daha fazla parlıyor. "
+        },
+        {
+            "id": 6,
+            "blogCategory": "Spor",
+            "blogTitle": "Futbolda Anadolu Devrimi",
+            "slug": "futbolda-anadolu-devrimi",
+            "postedOn": "10 Mart 2020",
+            "author": "Hamza Durmuş",
+            "blogImage": "trabzonspor.jpg",
+            "blogText": "Trabzonspor uzun uğraşlar sonucu kurulduktan sonra İkinci Lig’deki mücadelesine daha ilk sezondan itibaren Birinci Lig’e çıkma hedefi ile başladı. ‘Trabzon futbolu’nun layık olduğu yer kesinlikle İkinci Lig olarak görülmüyor; Trabzonluların Bordo-Mavili kulüpten beklentisi, gücünü övgülerle anılan bir maziden alıyordu. “Yıllarca memleket sporuna önderlik etmiş” bir kent, nasıl İkinci Lig’de kalabilirdi? Trabzonspor’un 1971-72 sezonu son maçında PTT’ye 1-0 yenilerek Birinci Lig biletini rakibine kaptırması ile yıkıma uğrayan camiada futbol politikası birden seyir değiştirecek ve “öze dönüş” olarak da adlandırılan yeni bir transfer anlayışı benimsenecekti. Kulübün kendi öz kaynaklarına dönerek, Trabzonlu futbolcuları bünyesine katmasıyla efsane takımın iskeleti kurulmuş oldu. Ve 1973-74 sezonunu şampiyon tamamlayan Bordo-Mavililer’in Birinci Lig serüveni, sonraki sezon itibarıyla başlamış oldu. Trabzonspor, Birinci Lig’e çıktığı ilk sene Hayatspor dergisi tarafından Kıbrıs’ta düzenlenen Barış Kupası’nı almıştı. Bu, kupalarla dolup taşacak on yılın başlangıcıydı. 1975-76 sezonu sonunda şampiyonluk ipini göğüsleyen Bordo-Mavililer, şampiyonluğu ilk defa İstanbul dışına taşıyarak Türk futbolunda yerleşik her ne varsa altüst etmiş ve bir devrime imza atmıştı. Bordo-Mavili ekip aynı sene Cumhurbaşkanlığı ve Başbakanlık kupalarını da almayı başardı. Spor basınının “Kupa Beyi” olarak anmaya başladığı Trabzonspor, kamuoyunda büyük bir saygınlık kazanmıştı. Öte yandan söz konusu başarıyı hala ‘tesadüfi’ olarak değerlendirenler de vardı. Neticede Türk futbolunda sarsılmaz sanan bir paradigma kökünden sarsılmıştı. Ancak Trabzonsporluların kendilerine güveni tamdı. Çünkü ‘Trabzonspor’ gerçeğinin sağlam temeller üstüne oturduğunu iyi biliyorlardı. Bordo-Mavililerin unutulmaz teknik direktörü Ahmet Suat Özyazıcı, kentin köklü futbol mirasına işaret ederek, yaşananlar için “Bu bir ‘devrim’den ziyade, ‘evrim’dir” diyordu. Trabzonspor, gümbür gümbür geliyordu…  "
+        },
+        {
+            "id": 7,
+            "blogCategory": "Sağlık",
+            "blogTitle": "Küresel Kabus: Covid-19",
+            "slug": "kuresel-kabus-covid-19",
+            "postedOn": "10 Mart 2020",
+            "author": "Hamza Durmuş",
+            "blogImage": "kuresel-kabus-covid-19.jpg",
+            "blogText": "Dünya Sağlık Örgütünün (WHO) uluslararası halk sağlığı acil durumu ilan etmesine neden olan ve hâlihazırda devam eden, başladığı günlerde 2019-nCoV. Daha sonra WHO’nun resmi kararıyla Covid-19 olarak adlandırılan salgın, 2019’un Aralık ayının son günlerinden beri dünyanın gündeminde. Salgına neden olan coronavirüs başlangıçta kulağımıza tanıdık gelmemiş olsa da aslında pek çok kişinin bu virüsün daha hafif türleri ile daha önce karşılaşmış olması muhtemel. Çünkü bu virüsün dört türü yaygın soğuk algınlığı vakalarının yaklaşık beşte birinin sorumlusu. Coronavirüsler hem insanlarda hem hayvanlarda bulunabilen büyük bir virüs ailesinin bir parçası. Bazıları insanları enfekte edebiliyor ve yaygın olarak basit bir soğuk algınlığına ya da MERS (Orta doğu solunum sendromu) ve SARS (Ciddi akut solunum sendromu) gibi çok ciddi hastalıklara neden olabiliyor.  "
+        },
+        {
+            "id": 8,
+            "blogCategory": "Teknoloji",
+            "blogTitle": "Ekran Teknolojileri Gelişiyor",
+            "slug": "ekran-teknolojileri-gelişiyor",
+            "postedOn": "10 Mart 2020",
+            "author": "Hamza Durmuş",
+            "blogImage": "ekran-teknolojileri-gelişiyor.jpg",
+            "blogText": "Dev teknoloji firmaları ekran teknolojileri konusunda hayatımıza her gün yenilikler katıyor. Gelişen AR-GE, yapay zeka sistemleri ve çok daha fazlasıyla yıllarca hayal ürünü olarak anılan akıllı teknolojiler bugün gerçek oluyor. Akıllı telefonların yatay veya dikey tutuşa göre ekran otomatik döndürme özelliği birçok uygulamayı daha kolay kullanmayı sağlıyor. Samsung bu kolaylığı televizyonlara da taşımak istemiş. Sero adını verdiği televizyon elinizde tuttuğunuz akıllı telefonla tümüyle senkronize çalışıyor. Böylece hem cep telefonunun ekranında gördüğünüz görüntüyü televizyona yansıtabiliyor hem de telefonu tuttuğunuz şekle göre televizyonunuzu da döndürebiliyorsunuz. Cep telefonu ekranından sürekli etrafınızdakilere bir şeyler gösteriyorsanız bu televizyon tam size göre. Henüz fiyatı belli olmayan Sero’yu tanıtan bir videoyu izlemek için: Intel, Horseshoe Bend adını verdiği bükülebilir ekrana sahip bir dizüstü bilgisayar geliştirdi. Lenovo, Thinkpad modelinde; Dell ise Ori modelinde benzer ürünlerini tanıttı. Royale Mirage ise 360 derece ekranla kaplı bir akıllı hoparlör tanıttı. Ekranlar pek ilginizi çekmediyse yine Samsung’un geliştirdiği SelfieType adlı sanal klavyeye göz atabilirsiniz. "
+        },
+        {
+            "id": 9,
+            "blogCategory": "Teknoloji",
+            "blogTitle": "İşlemci (CPU – Merkezi İşlem Birimi)",
+            "slug": "islemci",
+            "postedOn": "10 Mart 2020",
+            "author": "Hamza Durmuş",
+            "blogImage": "islemci.jpg",
+            "blogText": "Bilgisayarın yaptığı tüm görevleri yürüten, yönlendiren ve bilgisayarın adeta beyni gibi tüm işlemleri yapan donanım birimidir. Bilgisayarda işlemler yürütülürken kendisine verilen komutları yerine getiren en önemli bileşene işlemci denir. Milyonlarca transistörlerden oluşmuştur. İşlemcinin matematiksel ve mantıksal işlemleri yapan birimine ALU(Aritmetic Logic Unit) denir. İşlemcinin ALU’dan geriye kalan yapısını, hafıza birimleri, veriyolları, çeşitli kontrol ve denetleme bileşenleri oluşturur. Günümüzde bilgisayar, tablet, cep telefonu, gibi sistemlerde kullanılmak üzere Intel, AMD, Samsung, IMB, Mediatek… gibi işlemci üreticileri vardır.Bir işlemci, üretim aşamasında kendi yapısına dahil edilmiş ve çeşitli komutları yürütebilen devre yapılarına sahiptir. Üretim aşamasında işlemci üzerine dahil edilen ve komutları icra edebilen bu devre kümesine komut seti (Instruction set) denilmektedir. Bazı komut setleri MMX, 3DNOW, SSE, SSE2, SSE3, XOP… komut setleri örnek verilebilir. "
+        },
+        {
+            "id": 10,
+            "blogCategory": "Sağlık",
+            "blogTitle": "Vücudumuzda İlaç Taşıyan Nano Robotlar)",
+            "slug": "vucudumuzda-ilac-tasıyan-nano-robotlar",
+            "postedOn": "10 Mart 2020",
+            "author": "Hamza Durmuş",
+            "blogImage": "vucudumuzda-ilac-tasıyan-nano-robotlar.jpg",
+            "blogText": "Tedavi amaçlı ilaçların vücutta hedeflenen bölgelere ulaştırılması için küçük robotların kullanımı konusunda çeşitli uygulamalar geliştiriliyor. Bu sayede ilaçlardaki etken maddelerin tedavi edilecek bölgeye ulaştırılması ve kontrollü bir şekilde salınımının sağlanması hedefleniyor. Aktif bir şekilde yönlendirilecek hareketi sağlanan mikro ve nano boyutlardaki parçacıklarla vücudun belli bölgelerine ilaç transfer edilmesi araştırmacıların son zamanlarda üzerine yoğun bir şekilde eğildikleri konular arasında dikkat çekiyor. Dolaşım ve sindirim sisteminde ilaç, taşıyan robotların hareketi daha kolayken gözün camsı cisim bölgesi gibi yoğunluğu fazla ve doku ağlarının karmaşık olduğu bölgelerde hareket etmesi zorlaşıyor ve hedefe ulaşmak güçleşebiliyor. Araştırmacılar, üzerinde çalıştıkları nano boyutlardaki robot tasarımları ile bu sorunun üstesinden gelmiş görünüyorlar. Günümüze kadar biyolojik ortamda yönlendirilebilen az denilebilecek sayıda mikro sistem geliştirilmiştir. Bu sistemler, genellikle vücudun dolaşım ve sindirim sistemi gibi sıvı içeren bölgelerindedir. Kimyasal, mekanik ya da manyetik yolla itilerek hareket ettirilen yapılardan oluşuyor. Hayvanlar üzerinde gerçekleştirilen araştırmalarda, ilaç taşınmasında küçük robotların kullanılmasına ilişkin bazı kısıtlamalar tespit edilmiş. Örneğin yaklaşık 285 mikrometre çapında ve 1800 mikrometre uzunluktaki silindir şeklinde manyetik yapılarla gerçekleştirilen araştırmalarda, gözün camsı cisim bölgesinde hareketin kısıtlandığı belirlenmiş.Önceki araştırmalar ışığında, vücudun farklı ve daha yoğun yapıya sahip bölgelerinde ilaç transferinde kullanılan robotların kolayca hareket etmesini sağlayabilmek için boyut,şekil ve yüzey kaplamalarının hareket için uygunluğu gibi konuların önemli etmenler olduğu sonucuna ulaşılmış. Sonuç olarak, daha karmaşık doku ağlarından oluşan ya da yoğunluğunun fazla olduğu vücut bölgelerinde ilaç transferi için robotların kullanılmasının önünde aşılması gereken engeller bulunuyor. "
+        }
+        
+    ]
+}
